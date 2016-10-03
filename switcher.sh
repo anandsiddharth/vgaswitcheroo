@@ -1,14 +1,7 @@
 #!/bin/bash
-#┏━━━┓╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┏┓
-#┃┏━┓┃╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┃┃
-#┃┗━━┳┓┏┳━━┳━━┳━┳━┓┏━━┳━┓┏━┛┣┓┏┓
-#┗━━┓┃┃┃┃┏┓┃┃━┫┏┫┏┓┫┏┓┃┏┓┫┏┓┃┃┃┃
-#┃┗━┛┃┗┛┃┗┛┃┃━┫┃┃┃┃┃┏┓┃┃┃┃┗┛┃┗┛┃
-#┗━━━┻━━┫┏━┻━━┻┛┗┛┗┻┛┗┻┛┗┻━━┻━━┛
-#╋╋╋╋╋╋╋┃┃
-#╋╋╋╋╋╋╋┗┛
+
 #You can modify my c0de, make it better
-#EmaiL : < ilovunandu@yahoo.com >
+#Contact : Anand Siddharth < anandsiddharth21@gmail.com >
 #it will shutdown your graphics card for your linux session,
 #without affecting it. Increase your battery life and work cool.
 #works with both noisy ATI/AMD Radeon and Nvidia graphics card.
